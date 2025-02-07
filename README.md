@@ -16,7 +16,6 @@ Hospital Management System using MySQL, Php and Bootstrap
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
   
   
-<p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></img></p>
 
 ## GETTING INTO THE PROJECT:
 Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
@@ -139,35 +138,6 @@ This module allows admin to perform five major operations:
   ![image](https://user-images.githubusercontent.com/36665975/66571573-27134080-eb8d-11e9-8c1f-191a9f491872.png)
   
   &nbsp; &nbsp; &nbsp; Taking everything into consideration, admin can able to view the details of patients and doctors, appointment details, Feedback by the user and can add a new doctor. Once everything is done, the admin can logout from his account.
-
-## Updates
-
-### 1. Cancel Appointments
-	
-   &nbsp; &nbsp; &nbsp; Patients and doctors can able to delete their appointments.
- 
-   ![image](https://user-images.githubusercontent.com/36665975/75169587-d0c72880-574e-11ea-9a9e-ba098c04e594.png)
-    
-  If the patient deletes the last record (for doctor Ganesh), then a label "deleted by you" will be displayed in the column 'Current Status' and the action will change to cancel state.
-  
-  ![image](https://user-images.githubusercontent.com/36665975/75169873-47642600-574f-11ea-8ca4-420b0dfd20c3.png)
-  
-  Now if we login to the doctor Ganesh's account and view his appointment details, then it will look like this:
-  
-  ![image](https://user-images.githubusercontent.com/36665975/75170076-9316cf80-574f-11ea-84ff-6a5976ce8179.png)
-  
-  Similarly doctors can also delete their appointments and patients can view their updated appointment details.
-  
-### 2. Remove Doctors by Admin
-
-&nbsp; &nbsp; &nbsp; Admin can also delete the doctors from the system. This let admin to have more control over the system.
-
-![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kishan0725/Hospital-Management-System&type=Timeline)](https://star-history.com/#kishan0725/Hospital-Management-System&Timeline)
-  
 
 
 
